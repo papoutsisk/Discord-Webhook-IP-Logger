@@ -42,4 +42,5 @@ NOTE: You can use this in every page if you make a it a external page and requir
 
         $response = curl_exec( $ch );
 
+header("Location: https://www.projectpap.ga");
 ?>
